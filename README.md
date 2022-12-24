@@ -1,4 +1,5 @@
 # howdy-automation-on-off
+<pre>
 ES
 
 Un script escrito en bash, para sistemas con base UNIX, para automatizar el encendido o apagado del reconocimiento
@@ -18,3 +19,4 @@ Run it from time to time always
 https://en.linux-console.net/?p=1309#gsc.tab=0
 Run it when I turn on
 https://redessy.com/how-to-run-automatically-scripts-and-start-commands-of-linux/
+</pre>
